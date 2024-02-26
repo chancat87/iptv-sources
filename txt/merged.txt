@@ -1441,7 +1441,7 @@ Movies,#genre#
 [BD]HBO Comedy,https://epg.pw/stream/a164885166a82fa8b5d36e290e21d4fc4188b16e44df5351d315971105be9daa.ctv
 [BD]HBO East,https://epg.pw/stream/632412f58e23160b5b87781d310d4b02eca0d16df09bec9c51f8f8dff5ad681f.ctv
 [BD]hbo hd,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv
-[HD]HBO HITS,https://epg.pw/stream/c2597baa297e7e9c84b3c32db9eee6aa7962f5e4f6134cbdb0be0e92fca30e80.ctv
+[HD]HBO HITS,https://epg.pw/stream/b575e24f33a87c9ebf769dabc28484bf8e3fc8f7cfec84776981058750a4ab21.ctv
 [BD]usa - hbo signature,https://epg.pw/stream/d87da199b7f83c8678bcc3992c4b3e8d7cca6440ecf47c75a3897f1a4c09a37c.ctv
 [BD]HBO Signature,https://epg.pw/stream/dc31095b3b045be17e1d4fca6c4d4e8c80ba78655d45cc03ff1430cf0f16b95c.ctv
 [BD]HBO Zone,https://epg.pw/stream/f719e365878611e8c94ad25f7e4622eac0594de7c0f123a0b91fef7a665ec294.ctv
@@ -1962,7 +1962,7 @@ Kids,#genre#
 [VGA]ebs kids (400p),https://epg.pw/stream/0410d7122b0d747831bffdcdc1c3ba4027548b9b4d03125ee9d7d433c0f2112a.m3u8
 [SD]kids station,https://epg.pw/stream/c1330bb934380c867ba0be2cf0adb7a65849174d3fd10b50b89166c967f83f23.m3u8
 [VGA]miami tv,https://epg.pw/stream/0043c1c9b36638faab7a477247b9f39584f66b500d924e2b34a4c11044c628b6.m3u8
-[VGA]NICKELODEON,https://epg.pw/stream/a49586a15aec536b6e6e35510f332b8ad09b83174dd9d0a2f5992b65a524c557.ctv
+[VGA]NICKELODEON,https://epg.pw/stream/6b83520a0b5a5197937a97370463ddbcbf14ece08aae02194097a719f3685e59.ctv
 [HD]OKEY,https://epg.pw/stream/e97d8c22f4135a0b163b335c321db5b6f1dc9f93734ba708e91f33ba64f733cf.ctv
 [BD]on music hd,https://epg.pw/stream/0e36ad6d0f5e371875aaa6f5ffe834e80133d631cc01712976d45b951cbb7dc3.ctv
 [BD]cartoon network hd,https://epg.pw/stream/5f58d83af52f53deaa5830035cf1a465fe6139399d31b35359305da636acbd63.ctv
@@ -2060,7 +2060,7 @@ Test,#genre#
 [BD]cctv-6,https://epg.pw/stream/a444025fe5f72f64385141ec6895e9c9334a553582a392460b341523decc868d.ctv
 [BD]cctv-8,https://epg.pw/stream/c01bd69b88bcceb0951a2d9bec5fed2f29627c4e4316c91781d8804db491a4ec.m3u8
 [BD]cctv第一剧场[ipv6],https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8
-[BD]chc动作电影[ipv6],https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+[BD]chc动作电影,https://epg.pw/stream/a9542ff7b5a5dd601d5614edf37cd70c1941c9ac7b61dc3798bc2b2ddb851013.ctv
 [BD]chc家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 [BD]chc高清电影[ipv6],https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
 [BD]newtv潮妈辣婆[ipv6],https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
@@ -2074,11 +2074,13 @@ Test,#genre#
 [BD]安徽影视,https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
 [HD]山西影视,https://epg.pw/stream/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8
 [VGA]林正英2,https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv
+[BD]欧美影院[ipv6],https://epg.pw/stream/dd5a5662c2d46df78aa3b940fc3e85fbef57d1552e121dc1236c2e56b0dce703.m3u8
 [BD]欢笑剧场[ipv6],https://epg.pw/stream/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.m3u8
 [VGA]武汉电视剧,https://epg.pw/stream/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8
 [SD]河北影视,https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
 [SD]河北影视剧,https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8
 [BD]海外 剧场[ipv6],https://epg.pw/stream/84a4ae8afb94a68174309d2c62783ef8e6517c3ef7e354ffe0b02d4dcb0c16a3.m3u8
+[BD]精彩影视[ipv6],https://epg.pw/stream/d307c9cd8ca9bfccb256d05361a226e8186b4a7096856d7c699a3d7ce7214269.m3u8
 [SD]精彩电视剧,https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8
 [HD]绍兴文化影院,https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
 [SD]绍兴新闻综合,https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8
@@ -2291,7 +2293,7 @@ Test,#genre#
 [BD]黑莓动画[ipv6],https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8
 
 音乐,#genre#
-[BD]cctv15,https://epg.pw/stream/3a0e178ff62001411588df93da0de2bd38a1573807d16914cce8bbf65abcf074.m3u8
+[BD]cctv15[ipv6],https://epg.pw/stream/80ca73f2c897789d5b01da2ef9190e08f5f87741309ce017c6e20a99b3b20ef1.m3u8
 
 运动,#genre#
 [BD]cctv16,https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
