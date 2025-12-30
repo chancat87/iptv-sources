@@ -1,4 +1,4 @@
-# List for **epg.pw China**(Rollback)
+# List for **epg.pw China**
 
 > M3U: [cn.m3u](/cn.m3u), TXT: [cn.txt](/txt/cn.txt)
 
@@ -232,4 +232,4 @@
 | 226 | [HD]丽江新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/038fcc966210a5c920391694c24e747c5bd8ee11a51735284375f0567fae0c0b.m3u8> |
 | 227 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Tue Dec 30 2025 00:50:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 30 2025 03:19:32 GMT+0000 (Coordinated Universal Time)**
